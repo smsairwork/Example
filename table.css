@@ -1,0 +1,18 @@
+p.az{
+    color: #14e00d;
+    background: rgba(0, 0, 0, 0.6); animation: alternate-reverse;
+}
+p.abz{
+    background: rgba(73, 39, 39, 0.73);
+}
+p.acz{
+    background: #0548f1;
+    
+}
+p.z-2{
+    background: #e10c0c;
+}
+
+.table-hover{
+    background-color: #0548f1
+}
